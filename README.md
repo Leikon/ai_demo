@@ -1,12 +1,8 @@
-# DouK-Downloader 配置指南
+配置指南
 
 ## 📦 项目简介
-
-抖音/TikTok 视频下载工具，支持批量下载、直播录制、AI 描述改写等功能。
-
----
-
-## 🚀 快速开始
+这是一个二创的，源项目是
+DouK-Downloader (https://github.com/JoeanAmier/TikTokDownloader)
 
 ### 1. 安装依赖
 
